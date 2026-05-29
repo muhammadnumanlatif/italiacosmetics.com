@@ -28,7 +28,7 @@ export interface Product {
 export const PRODUCTS: Product[] = [
   {
     id: "max801",
-    name: "1 BLACK - NATURALS PERMANENT COLORING CREAM",
+    name: "1 BLACK - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -39,7 +39,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max898",
-    name: "1.10 BLUE BLACK - ASH NATURALS PERMANENT COLORING CREAM",
+    name: "1.10 BLUE BLACK - ASH NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -50,7 +50,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max802",
-    name: "3 DARK BROWN - NATURALS PERMANENT COLORING CREAM",
+    name: "3 DARK BROWN - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -61,7 +61,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max803",
-    name: "4 BROWN - NATURALS PERMANENT COLORING CREAM",
+    name: "4 BROWN - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -72,7 +72,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max804",
-    name: "5 LIGHT BROWN - NATURALS PERMANENT COLORING CREAM",
+    name: "5 LIGHT BROWN - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -83,7 +83,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max805",
-    name: "6 DARK BLONDE - NATURALS PERMANENT COLORING CREAM",
+    name: "6 DARK BLONDE - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -94,7 +94,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max806",
-    name: "7 BLONDE - NATURALS PERMANENT COLORING CREAM",
+    name: "7 BLONDE - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -105,7 +105,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max807",
-    name: "8 LIGHT BLONDE - NATURALS PERMANENT COLORING CREAM",
+    name: "8 LIGHT BLONDE - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -116,7 +116,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max808",
-    name: "9 VERY LIGHT BLONDE - NATURALS PERMANENT COLORING CREAM",
+    name: "9 VERY LIGHT BLONDE - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -127,7 +127,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max809",
-    name: "10 PLATINUM BLONDE - NATURALS PERMANENT COLORING CREAM",
+    name: "10 PLATINUM BLONDE - NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -138,7 +138,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max810",
-    name: "5.00 INTENSE LIGHT NATURAL BROWN - INTENSIVE NATURALS PERMANENT COLORING CREAM",
+    name: "5.00 INTENSE LIGHT NATURAL BROWN - INTENSIVE NATURALS PERMANENT COLORING CREAM 100 ML",
     brand: "MAXY LOOK",
     price: 6752,
     category: "technical-coloring",
@@ -149,7 +149,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max916",
-    name: "DIRECT COLORING ETHEREAL WHITE",
+    name: "DIRECT COLORING ETHEREAL WHITE 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -160,7 +160,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max917",
-    name: "DIRECT COLORING BLUE",
+    name: "DIRECT COLORING BLUE 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -171,7 +171,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max918",
-    name: "DIRECT COLORING GREEN",
+    name: "DIRECT COLORING GREEN 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -182,7 +182,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max919",
-    name: "DIRECT COLORING ACID GREEN",
+    name: "DIRECT COLORING ACID GREEN 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -193,7 +193,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max920",
-    name: "DIRECT COLORING PINK",
+    name: "DIRECT COLORING PINK 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -204,7 +204,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max921",
-    name: "DIRECT COLORING PLUM",
+    name: "DIRECT COLORING PLUM 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -215,7 +215,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max922",
-    name: "DIRECT COLORING TURQUOISE",
+    name: "DIRECT COLORING TURQUOISE 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -226,7 +226,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max923",
-    name: "DIRECT COLORING ORANGE",
+    name: "DIRECT COLORING ORANGE 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -237,7 +237,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max924",
-    name: "DIRECT COLORING YELLOW",
+    name: "DIRECT COLORING YELLOW 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -248,7 +248,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max925",
-    name: "DIRECT COLORING RED",
+    name: "DIRECT COLORING RED 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -259,7 +259,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max926",
-    name: "DIRECT COLORING PEARL GREY",
+    name: "DIRECT COLORING PEARL GREY 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -270,7 +270,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max927",
-    name: "DIRECT COLORING CLEAR",
+    name: "DIRECT COLORING CLEAR 60 ML",
     brand: "MAXY LOOK",
     price: 7107,
     category: "technical-coloring",
@@ -281,7 +281,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max601",
-    name: "PROTECTING SHAMPOO",
+    name: "PROTECTING SHAMPOO 1000 ML",
     brand: "MAXY LOOK",
     price: 13688,
     category: "shampoos",
@@ -292,7 +292,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max602",
-    name: "PROTECTING SHAMPOO",
+    name: "PROTECTING SHAMPOO 300 ML",
     brand: "MAXY LOOK",
     price: 7036,
     category: "shampoos",
@@ -303,7 +303,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max603",
-    name: "Protecting Mask",
+    name: "Protecting Mask 1000 ML",
     italianName: "Maschera protettiva per capelli colorati",
     brand: "MAXY LOOK",
     price: 13859,
@@ -317,7 +317,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max604",
-    name: "Protecting Mask",
+    name: "Protecting Mask 300 ML",
     italianName: "Maschera protettiva per capelli colorati",
     brand: "MAXY LOOK",
     price: 7932,
@@ -331,7 +331,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max605",
-    name: "Protecting Dual-Phase Spray",
+    name: "Protecting Dual-Phase Spray 300 ML",
     italianName: "Spray bifasico protettivo",
     brand: "MAXY LOOK",
     price: 8813,
@@ -345,7 +345,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max606",
-    name: "Nourishing Shampoo",
+    name: "Nourishing Shampoo 1000 ML",
     italianName: "Shampoo nutriente",
     brand: "MAXY LOOK",
     price: 13688,
@@ -359,7 +359,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max607",
-    name: "Nourishing Shampoo",
+    name: "Nourishing Shampoo 300 ML",
     italianName: "Shampoo nutriente",
     brand: "MAXY LOOK",
     price: 7036,
@@ -373,7 +373,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max608",
-    name: "Nourishing Mask",
+    name: "Nourishing Mask 1000 ML",
     italianName: "Maschera nutriente",
     brand: "MAXY LOOK",
     price: 13859,
@@ -387,7 +387,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max609",
-    name: "Nourishing Mask",
+    name: "Nourishing Mask 300 ML",
     italianName: "Maschera nutriente",
     brand: "MAXY LOOK",
     price: 7932,
@@ -401,7 +401,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max610",
-    name: "Nourishing Conditioner Leave-in",
+    name: "Nourishing Conditioner Leave-in 300 ML",
     italianName: "Conditioner senza risciacquo",
     brand: "MAXY LOOK",
     price: 11556,
@@ -415,7 +415,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max612",
-    name: "Hydrating Shampoo",
+    name: "Hydrating Shampoo 1000 ML",
     italianName: "Shampoo idratante",
     brand: "MAXY LOOK",
     price: 13688,
@@ -429,7 +429,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max613",
-    name: "Hydrating Shampoo",
+    name: "Hydrating Shampoo 300 ML",
     italianName: "Shampoo idratante",
     brand: "MAXY LOOK",
     price: 7036,
@@ -443,7 +443,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max614",
-    name: "Hydrating Mask",
+    name: "Hydrating Mask 1000 ML",
     italianName: "Maschera idratante",
     brand: "MAXY LOOK",
     price: 13859,
@@ -457,7 +457,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max615",
-    name: "Hydrating Mask",
+    name: "Hydrating Mask 300 ML",
     italianName: "Maschera idratante",
     brand: "MAXY LOOK",
     price: 7932,
@@ -471,7 +471,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max616",
-    name: "Multi Action 10 in 1 Leave-in",
+    name: "Multi Action 10 in 1 Leave-in 200 ML",
     italianName: "Spray multi azione senza risciacquo",
     brand: "MAXY LOOK",
     price: 11556,
@@ -485,7 +485,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max617",
-    name: "Hydrating Crystal Fluid",
+    name: "Hydrating Crystal Fluid 100 ML",
     italianName: "Hydrating Crystal Macadamia Fluid",
     brand: "MAXY LOOK",
     price: 17697,
@@ -499,7 +499,7 @@ export const PRODUCTS: Product[] = [
   },
   {
     id: "max618",
-    name: "Hydrating Treatment Lotion",
+    name: "Hydrating Treatment Lotion 12 X 7 ML",
     italianName: "Trattamento idratante senza risciacquo",
     brand: "MAXY LOOK",
     price: 30134,
