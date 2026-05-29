@@ -97,7 +97,7 @@ export const metadata: Metadata = {
 
   // ── Verification ──
   verification: {
-    google: "your-google-site-verification-token",
+    google: "gndb5SroGuZIVnYOh7a1Wmo1W48Le8J-M_sjZXeRc6g",
   },
 
   // ── App ──
