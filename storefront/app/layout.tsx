@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Montserrat, Cormorant_Garamond } from "next/font/google";
 import "./globals.css";
+import FloatingActions from "@/components/FloatingActions";
 
 const montserrat = Montserrat({
   subsets: ["latin"],
@@ -260,7 +261,10 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationJsonLd) }}
         />
       </head>
-      <body className="min-vh-100 d-flex flex-column">{children}</body>
+      <body className="min-vh-100 d-flex flex-column">
+        {children}
+        <FloatingActions />
+      </body>
     </html>
   );
 }
