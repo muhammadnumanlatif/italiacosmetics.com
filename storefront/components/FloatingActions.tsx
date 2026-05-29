@@ -132,7 +132,7 @@ export default function FloatingActions() {
 
       {/* Quick Order Modal Overlay */}
       {isModalOpen && (
-        <div className="position-fixed inset-0 z-[1050] d-flex align-items-center justify-content-center bg-black/60 backdrop-blur-sm p-3">
+        <div className="position-fixed inset-0 d-flex align-items-center justify-content-center bg-black/60 backdrop-blur-sm p-3" style={{ zIndex: 999999 }}>
           <div className="bg-white rounded-4 shadow-xl w-100" style={{ maxWidth: '400px' }}>
             
             <div className="p-4 border-bottom d-flex justify-content-between align-items-center">
