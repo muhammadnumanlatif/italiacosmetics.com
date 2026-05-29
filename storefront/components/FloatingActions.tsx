@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
+import { PRODUCTS as CATALOG_PRODUCTS } from "@/app/products";
 
 const CITIES = ["Lahore", "Karachi", "Islamabad", "Faisalabad", "Rawalpindi", "Multan"];
 const PRODUCTS = [
@@ -161,8 +162,19 @@ export default function FloatingActions() {
               </div>
 
               <div className="mb-4">
-                <label className="form-label text-xs fw-semibold text-zinc-600 uppercase tracking-wider">Product(s) Needed</label>
-                <input type="text" className="form-control form-control-lg text-sm" placeholder="e.g. MAXY LOOK Shampoo (or leave blank)" value={formData.product} onChange={(e) => setFormData({...formData, product: e.target.value})} />
+                <label className="form-label text-xs fw-semibold text-zinc-600 uppercase tracking-wider">Product Needed</label>
+                <select 
+                  className="form-select form-select-lg text-sm" 
+                  value={formData.product} 
+                  onChange={(e) => setFormData({...formData, product: e.target.value})}
+                >
+                  <option value="">Select a product (or ask for advice)</option>
+                  {CATALOG_PRODUCTS.map((prod) => (
+                    <option key={prod.id} value={prod.name}>
+                      {prod.brand} - {prod.name}
+                    </option>
+                  ))}
+                </select>
               </div>
 
               <button type="submit" className="btn btn-success w-100 py-3 rounded-pill fw-bold tracking-wider d-flex align-items-center justify-content-center gap-2" style={{ backgroundColor: '#25D366', borderColor: '#25D366' }}>
